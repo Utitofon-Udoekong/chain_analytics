@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.1.0] - 2024-11-01
+## [0.1.0] - 2025-11-02
 
 ### Added
 - Initial release of chain_analytics
@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file.
 - SQLite-based offline event queue
 - Automatic event batching (size and time-based)
 - Blockchain integration via web3dart
-- Support for Base, Polygon, and Arbitrum (mainnet + testnets)
+- Support for Base, Polygon, Arbitrum, BNB, Tron (mainnet + testnets)
 - Privacy-first design with automatic user ID hashing
 - Gzip compression for cost optimization
 - Retry logic with exponential backoff

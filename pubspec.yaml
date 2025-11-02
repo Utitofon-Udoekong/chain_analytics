@@ -4,6 +4,7 @@ version: 0.1.0
 homepage: https://github.com/Utitofon-Udoekong/chain_analytics
 repository: https://github.com/Utitofon-Udoekong/chain_analytics
 issue_tracker: https://github.com/Utitofon-Udoekong/chain_analytics/issues
+license: MIT
 
 topics:
   - analytics

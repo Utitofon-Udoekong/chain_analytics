@@ -385,7 +385,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 - 📚 [Full Documentation](https://pub.dev/documentation/chain_analytics) (coming soon)
 - 💻 [Example App](example/)
-- 🚀 [Quick Start Guide](QUICK_START.md)
 - 🐛 [Issue Tracker](https://github.com/Utitofon-Udoekong/chain_analytics/issues)
 - 💬 [Discussions](https://github.com/Utitofon-Udoekong/chain_analytics/discussions)
 
